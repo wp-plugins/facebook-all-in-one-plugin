@@ -1,0 +1,33 @@
+ul.wdfbaio_widget_events {
+	margin:0 !important; padding: 0 !important;	
+}
+ul.wdfbaio_widget_events li {
+	margin:0; padding: 0;
+	list-style: none;
+}
+ul.wdfbaio_widget_events li .wdfbaio_event_title {
+	font-weight: bold;
+}
+
+ul.wdfbaio_widget_events li .wdfbaio_event_widget_title {
+	font-weight: bold;
+}
+
+ul.wdfbaio_widget_events li .wdfbaio_event_feed ul {
+	margin:0 !important; padding: 0 !important;
+	list-style: none;
+}
+ul.wdfbaio_widget_events li .wdfbaio_event_feed .wdfbaio_event_user {
+	font-weight: bold;
+}
+ul.wdfbaio_widget_events li .wdfbaio_event_feed a.wdfbaio_event_image_link {
+	display: block;
+}
+
+ul.wdfbaio_widget_events .wdfbaio_event_attending ul {
+	margin:0 !important; padding: 0 !important;
+	list-style: none;
+}
+ul.wdfbaio_widget_events .wdfbaio_event_attending li {
+	display: inline;
+}

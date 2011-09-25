@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+#wdfbaio_album_container ul.wdfbaio_albums li {
+	margin-bottom: 2em;
+}
+
+#wdfbaio_album_container ul.wdfbaio_album_photos li {
+	padding: 10px;
+	border: 1px solid #ccc;
+	width: 100px;
+	height: 140px;
+	float: left;
+	margin-right: 5px;
+}
+
+#wdfbaio_album_container ul.wdfbaio_album_photos li img {
+	width: 90px;
+	margin: 0 auto;
+}
